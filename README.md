@@ -1,5 +1,5 @@
 # Fake RobloxInjector Script
--# Made by omega
+### Made by omega
 (Yes I used ChatGPT for README.md)
 ## Description
 This batch script simulates a series of system errors and fake alerts, mimicking actions such as webcam access warnings, file deletions, and fake system failures. The script is designed for educational purposes only and should **not** be used on systems without permission.
